@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1096.0 688.0" width="1096" height="688" font-family="'Cascadia Mono','JetBrains Mono','SF Mono',Menlo,Consolas,'D2Coding','Noto Sans Mono CJK KR','Malgun Gothic',monospace" font-size="13.4" font-weight="600">
+<style>
+text{white-space:pre}
+@keyframes sc65{0.000%,26.666%{opacity:1}26.667%,100%{opacity:0}}
+@keyframes cy66{0%,25.000%{opacity:1}25.001%,100%{opacity:0}}
+@keyframes sc67{0%,18.666%{opacity:0}18.667%,26.666%{opacity:1}26.667%,100%{opacity:0}}
+@keyframes sc68{0%,26.666%{opacity:0}26.667%,53.332%{opacity:1}53.333%,100%{opacity:0}}
+@keyframes cy69{0%,10.000%{opacity:1}10.001%,100%{opacity:0}}
+@keyframes cy70{0%,10.000%{opacity:1}10.001%,100%{opacity:0}}
+@keyframes sc71{0%,26.666%{opacity:0}26.667%,33.332%{opacity:1}33.333%,100%{opacity:0}}
+@keyframes sc72{0%,33.332%{opacity:0}33.333%,39.999%{opacity:1}40.000%,100%{opacity:0}}
+@keyframes sc73{0%,39.999%{opacity:0}40.000%,46.666%{opacity:1}46.667%,100%{opacity:0}}
+@keyframes sc74{0%,46.666%{opacity:0}46.667%,53.332%{opacity:1}53.333%,100%{opacity:0}}
+@keyframes run76{from{transform:translateX(-48.00px)}to{transform:translateX(480.00px)}}
+@keyframes sc77{0%,53.332%{opacity:0}53.333%,99.999%{opacity:1}}
+@keyframes cy78{0%,25.000%{opacity:1}25.001%,100%{opacity:0}}
+</style>
+<rect width="100%" height="100%" rx="8" fill="#0c0c0c"/>
+<g transform="translate(12.0,24.0)">
+<g style="opacity:0;animation:sc65 7.500s linear infinite">
+<line x1="508.00" y1="0" x2="508.00" y2="598.40" stroke="#5a5a5a" stroke-width="1"/>
+<text x="8.0" y="491.52" textLength="296.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">❯ checkout/applyCoupon.ts 를 살펴봐줘</text>
+<text x="8.0" y="523.52" textLength="488.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">● checkout/applyCoupon.ts 를 읽었습니다. 쿠폰 할인은 장바구니</text>
+<text x="24.0" y="539.52" textLength="280.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">합계를 계산한 뒤에 따로 적용됩니다.</text>
+<text x="24.0" y="571.52" textLength="432.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">- 합계 계산과 쿠폰 적용이 서로 다른 요청으로 나갑니다.</text>
+<text x="24.0" y="587.52" textLength="416.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">- 쿠폰 적용이 늦게 끝나면 그 사이에 결제가 진행될 수</text>
+<text x="40.0" y="603.52" textLength="72.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">있습니다.</text>
+<text x="536.0" y="27.52" textLength="208.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700">Reference : Opus 5.5 Guide</text>
+<text x="968.0" y="27.52" textLength="24.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700" style="opacity:0;animation:cy66 0.400s linear 0.000s infinite">∙∙∙</text>
+<text x="968.0" y="27.52" textLength="24.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700" style="opacity:0;animation:cy66 0.400s linear 0.100s infinite">●∙∙</text>
+<text x="968.0" y="27.52" textLength="24.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700" style="opacity:0;animation:cy66 0.400s linear 0.200s infinite">∙●∙</text>
+<text x="968.0" y="27.52" textLength="24.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700" style="opacity:0;animation:cy66 0.400s linear 0.300s infinite">∙∙●</text>
+<text x="1000.0" y="27.52" textLength="48.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700">Review</text>
+<line x1="536.0" y1="40.00" x2="1048.0" y2="40.00" stroke="#3c3c3c" stroke-width="1.2" opacity="1.0"/>
+<rect x="536.0" y="49.0" width="72.0" height="14.0" fill="#e0694a"/>
+<text x="544.0" y="59.52" textLength="56.0" lengthAdjust="spacingAndGlyphs" fill="#0c0c0c" font-weight="700">AUTO ON</text>
+<text x="632.0" y="59.52" textLength="296.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Session Model : Opus 5.5 (Detected) ▾</text>
+<text x="544.0" y="75.52" textLength="344.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Polish Model : claude-sonnet-5-5 (medium) ▾</text>
+<rect x="524.00" y="8.00" width="536.00" height="80.00" rx="5" fill="none" stroke="#e0694a" stroke-width="1.2" opacity="1.0"/>
+<rect x="524.00" y="104.00" width="536.00" height="80.00" rx="5" fill="none" stroke="#8a8a8a" stroke-width="1.2" opacity="0.55"/>
+<text x="536.0" y="123.52" textLength="120.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a" font-weight="700">Original Prompt</text>
+<text x="976.0" y="123.52" textLength="72.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">107 chars</text>
+<text x="536.0" y="139.52" textLength="448.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">결제 페이지에서 쿠폰 넣고 결제하면 가끔 할인 전 금액으로</text>
+<text x="536.0" y="155.52" textLength="504.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">결제되는 것 같아. 저번에 본 그 파일 문제인 것 같은데 좀 봐줄 수</text>
+<text x="536.0" y="171.52" textLength="368.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">있어? 테스트도 있으면 좋고. think step by step</text>
+<rect x="524.00" y="200.00" width="536.00" height="96.00" rx="5" fill="none" stroke="#b1b9f9" stroke-width="1.2" opacity="1.0"/>
+<text x="536.0" y="219.52" textLength="120.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700">Polished Prompt</text>
+<text x="976.0" y="219.52" textLength="72.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">128 chars</text>
+<text x="536.0" y="235.52" textLength="464.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">쿠폰을 넣고 결제하면 가끔 할인 전 금액으로 결제되는 버그를</text>
+<text x="536.0" y="251.52" textLength="328.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">checkout/applyCoupon.ts 에서 찾아 고쳐줘.</text>
+<text x="536.0" y="267.52" textLength="296.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">이 버그를 재현하는 테스트를 추가해줘.</text>
+<text x="536.0" y="283.52" textLength="504.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">완료 기준: 새 테스트와 기존 결제 테스트가 모두 통과하면 끝이야.</text>
+<rect x="528.0" y="305.0" width="112.0" height="14.0" fill="#e0694a"/>
+<text x="536.0" y="315.52" textLength="96.0" lengthAdjust="spacingAndGlyphs" fill="#0c0c0c" font-weight="700">Apply Polish</text>
+<text x="664.0" y="315.52" textLength="96.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Retry Polish</text>
+<text x="792.0" y="315.52" textLength="104.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Keep Original</text>
+<text x="536.0" y="603.52" textLength="88.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">History 1 ▴</text>
+<text x="640.0" y="603.52" textLength="368.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">14:02:08 Polished · Opus 5.5 · 107 → 128 chars</text>
+<text x="536.0" y="587.52" textLength="48.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Keys ▴</text>
+<line x1="0.0" y1="616.00" x2="1072.0" y2="616.00" stroke="#5a5a5a" stroke-width="1" opacity="1.0"/>
+<text x="0.0" y="635.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2" font-weight="700">❯</text>
+<rect x="16.00" y="625.00" width="7.00" height="14.0" fill="#f2f2f2"/>
+</g>
+<g style="opacity:0;animation:sc67 7.500s linear infinite"><path d="M704.0 311.2 l0 15 l4 -4 l3 7 l3 -1.3 l-3 -6.7 l5.6 0 z" fill="#f2f2f2" stroke="#0c0c0c" stroke-width="1.2" stroke-linejoin="round"/></g>
+<g style="opacity:0;animation:sc68 7.500s linear infinite">
+<line x1="508.00" y1="0" x2="508.00" y2="598.40" stroke="#5a5a5a" stroke-width="1"/>
+<text x="8.0" y="491.52" textLength="296.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">❯ checkout/applyCoupon.ts 를 살펴봐줘</text>
+<text x="8.0" y="523.52" textLength="488.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">● checkout/applyCoupon.ts 를 읽었습니다. 쿠폰 할인은 장바구니</text>
+<text x="24.0" y="539.52" textLength="280.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">합계를 계산한 뒤에 따로 적용됩니다.</text>
+<text x="24.0" y="571.52" textLength="432.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">- 합계 계산과 쿠폰 적용이 서로 다른 요청으로 나갑니다.</text>
+<text x="24.0" y="587.52" textLength="416.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">- 쿠폰 적용이 늦게 끝나면 그 사이에 결제가 진행될 수</text>
+<text x="40.0" y="603.52" textLength="72.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">있습니다.</text>
+<text x="536.0" y="27.52" textLength="208.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700">Reference : Opus 5.5 Guide</text>
+<text x="960.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy69 0.500s linear 0.000s infinite">⠋</text>
+<text x="960.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy69 0.500s linear 0.050s infinite">⠙</text>
+<text x="960.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy69 0.500s linear 0.100s infinite">⠹</text>
+<text x="960.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy69 0.500s linear 0.150s infinite">⠸</text>
+<text x="960.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy69 0.500s linear 0.200s infinite">⠼</text>
+<text x="960.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy69 0.500s linear 0.250s infinite">⠴</text>
+<text x="960.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy69 0.500s linear 0.300s infinite">⠦</text>
+<text x="960.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy69 0.500s linear 0.350s infinite">⠧</text>
+<text x="960.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy69 0.500s linear 0.400s infinite">⠇</text>
+<text x="960.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy69 0.500s linear 0.450s infinite">⠏</text>
+<text x="976.0" y="27.52" textLength="72.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700">Polishing</text>
+<line x1="536.0" y1="40.00" x2="1048.0" y2="40.00" stroke="#3c3c3c" stroke-width="1.2" opacity="1.0"/>
+<rect x="540.00" y="56.00" width="504.00" height="48.00" rx="5" fill="none" stroke="#3c3c3c" stroke-width="1.2" opacity="1.0"/>
+<text x="552.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy70 0.500s linear 0.000s infinite">⠋</text>
+<text x="552.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy70 0.500s linear 0.050s infinite">⠙</text>
+<text x="552.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy70 0.500s linear 0.100s infinite">⠹</text>
+<text x="552.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy70 0.500s linear 0.150s infinite">⠸</text>
+<text x="552.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy70 0.500s linear 0.200s infinite">⠼</text>
+<text x="552.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy70 0.500s linear 0.250s infinite">⠴</text>
+<text x="552.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy70 0.500s linear 0.300s infinite">⠦</text>
+<text x="552.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy70 0.500s linear 0.350s infinite">⠧</text>
+<text x="552.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy70 0.500s linear 0.400s infinite">⠇</text>
+<text x="552.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy70 0.500s linear 0.450s infinite">⠏</text>
+<g style="opacity:0;animation:sc71 7.500s linear infinite">
+<text x="568.0" y="75.52" textLength="32.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700">0:00</text>
+</g>
+<g style="opacity:0;animation:sc72 7.500s linear infinite">
+<text x="568.0" y="75.52" textLength="32.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700">0:01</text>
+</g>
+<g style="opacity:0;animation:sc73 7.500s linear infinite">
+<text x="568.0" y="75.52" textLength="32.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700">0:02</text>
+</g>
+<g style="opacity:0;animation:sc74 7.500s linear infinite">
+<text x="568.0" y="75.52" textLength="32.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700">0:03</text>
+</g>
+<text x="608.0" y="75.52" textLength="128.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700">Polishing prompt</text>
+<text x="744.0" y="75.52" textLength="264.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">claude-sonnet-5-5 · effort medium</text>
+<line x1="556.0" y1="88.00" x2="1032.0" y2="88.00" stroke="#3c3c3c" stroke-width="2" stroke-dasharray="0.1 7.9" stroke-linecap="round" opacity="1.0"/>
+<clipPath id="clip75"><rect x="552.0" y="80.0" width="480.00" height="16.0"/></clipPath><g clip-path="url(#clip75)"><g style="animation:run76 1.485s linear infinite"><rect x="552.0" y="82.0" width="48.00" height="12.0" fill="#0c0c0c"/><line x1="552.0" y1="88.00" x2="600.00" y2="88.00" stroke="#e0694a" stroke-width="2.6"/></g></g>
+<text x="1008.0" y="123.52" textLength="32.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Stop</text>
+<rect x="524.00" y="8.00" width="536.00" height="128.00" rx="5" fill="none" stroke="#e0694a" stroke-width="1.2" opacity="1.0"/>
+<rect x="524.00" y="152.00" width="536.00" height="80.00" rx="5" fill="none" stroke="#8a8a8a" stroke-width="1.2" opacity="0.55"/>
+<text x="536.0" y="171.52" textLength="120.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a" font-weight="700">Original Prompt</text>
+<text x="976.0" y="171.52" textLength="72.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">107 chars</text>
+<text x="536.0" y="187.52" textLength="448.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">결제 페이지에서 쿠폰 넣고 결제하면 가끔 할인 전 금액으로</text>
+<text x="536.0" y="203.52" textLength="504.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">결제되는 것 같아. 저번에 본 그 파일 문제인 것 같은데 좀 봐줄 수</text>
+<text x="536.0" y="219.52" textLength="368.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">있어? 테스트도 있으면 좋고. think step by step</text>
+<rect x="524.00" y="248.00" width="536.00" height="96.00" rx="5" fill="none" stroke="#b1b9f9" stroke-width="1.2" opacity="1.0"/>
+<text x="536.0" y="267.52" textLength="120.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700">Polished Prompt</text>
+<text x="976.0" y="267.52" textLength="72.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">128 chars</text>
+<text x="536.0" y="283.52" textLength="464.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">쿠폰을 넣고 결제하면 가끔 할인 전 금액으로 결제되는 버그를</text>
+<text x="536.0" y="299.52" textLength="328.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">checkout/applyCoupon.ts 에서 찾아 고쳐줘.</text>
+<text x="536.0" y="315.52" textLength="296.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">이 버그를 재현하는 테스트를 추가해줘.</text>
+<text x="536.0" y="331.52" textLength="504.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">완료 기준: 새 테스트와 기존 결제 테스트가 모두 통과하면 끝이야.</text>
+<text x="536.0" y="603.52" textLength="88.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">History 1 ▴</text>
+<text x="640.0" y="603.52" textLength="368.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">14:02:08 Polished · Opus 5.5 · 107 → 128 chars</text>
+<text x="536.0" y="587.52" textLength="48.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Keys ▴</text>
+<line x1="0.0" y1="616.00" x2="1072.0" y2="616.00" stroke="#5a5a5a" stroke-width="1" opacity="1.0"/>
+<text x="0.0" y="635.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2" font-weight="700">❯</text>
+<rect x="16.00" y="625.00" width="7.00" height="14.0" fill="#f2f2f2"/>
+</g>
+<g style="opacity:0;animation:sc77 7.500s linear infinite">
+<line x1="508.00" y1="0" x2="508.00" y2="598.40" stroke="#5a5a5a" stroke-width="1"/>
+<text x="8.0" y="491.52" textLength="296.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">❯ checkout/applyCoupon.ts 를 살펴봐줘</text>
+<text x="8.0" y="523.52" textLength="488.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">● checkout/applyCoupon.ts 를 읽었습니다. 쿠폰 할인은 장바구니</text>
+<text x="24.0" y="539.52" textLength="280.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">합계를 계산한 뒤에 따로 적용됩니다.</text>
+<text x="24.0" y="571.52" textLength="432.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">- 합계 계산과 쿠폰 적용이 서로 다른 요청으로 나갑니다.</text>
+<text x="24.0" y="587.52" textLength="416.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">- 쿠폰 적용이 늦게 끝나면 그 사이에 결제가 진행될 수</text>
+<text x="40.0" y="603.52" textLength="72.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">있습니다.</text>
+<text x="536.0" y="27.52" textLength="208.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700">Reference : Opus 5.5 Guide</text>
+<text x="968.0" y="27.52" textLength="24.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700" style="opacity:0;animation:cy78 0.400s linear 0.000s infinite">∙∙∙</text>
+<text x="968.0" y="27.52" textLength="24.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700" style="opacity:0;animation:cy78 0.400s linear 0.100s infinite">●∙∙</text>
+<text x="968.0" y="27.52" textLength="24.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700" style="opacity:0;animation:cy78 0.400s linear 0.200s infinite">∙●∙</text>
+<text x="968.0" y="27.52" textLength="24.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700" style="opacity:0;animation:cy78 0.400s linear 0.300s infinite">∙∙●</text>
+<text x="1000.0" y="27.52" textLength="48.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700">Review</text>
+<line x1="536.0" y1="40.00" x2="1048.0" y2="40.00" stroke="#3c3c3c" stroke-width="1.2" opacity="1.0"/>
+<rect x="536.0" y="49.0" width="72.0" height="14.0" fill="#e0694a"/>
+<text x="544.0" y="59.52" textLength="56.0" lengthAdjust="spacingAndGlyphs" fill="#0c0c0c" font-weight="700">AUTO ON</text>
+<text x="632.0" y="59.52" textLength="296.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Session Model : Opus 5.5 (Detected) ▾</text>
+<text x="544.0" y="75.52" textLength="344.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Polish Model : claude-sonnet-5-5 (medium) ▾</text>
+<rect x="524.00" y="8.00" width="536.00" height="80.00" rx="5" fill="none" stroke="#e0694a" stroke-width="1.2" opacity="1.0"/>
+<rect x="524.00" y="104.00" width="536.00" height="80.00" rx="5" fill="none" stroke="#8a8a8a" stroke-width="1.2" opacity="0.55"/>
+<text x="536.0" y="123.52" textLength="120.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a" font-weight="700">Original Prompt</text>
+<text x="976.0" y="123.52" textLength="72.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">107 chars</text>
+<text x="536.0" y="139.52" textLength="448.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">결제 페이지에서 쿠폰 넣고 결제하면 가끔 할인 전 금액으로</text>
+<text x="536.0" y="155.52" textLength="504.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">결제되는 것 같아. 저번에 본 그 파일 문제인 것 같은데 좀 봐줄 수</text>
+<text x="536.0" y="171.52" textLength="368.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">있어? 테스트도 있으면 좋고. think step by step</text>
+<rect x="524.00" y="200.00" width="536.00" height="128.00" rx="5" fill="none" stroke="#b1b9f9" stroke-width="1.2" opacity="1.0"/>
+<text x="536.0" y="219.52" textLength="120.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700">Polished Prompt</text>
+<text x="976.0" y="219.52" textLength="72.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">150 chars</text>
+<text x="536.0" y="235.52" textLength="480.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">목표: 쿠폰을 넣은 결제가 항상 할인된 금액으로 진행되게 한다.</text>
+<text x="536.0" y="251.52" textLength="248.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">- 대상: checkout/applyCoupon.ts</text>
+<text x="536.0" y="267.52" textLength="456.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">- 먼저 할인 전 금액으로 결제되는 경우를 재현하는 테스트를</text>
+<text x="536.0" y="283.52" textLength="56.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">만든다.</text>
+<text x="536.0" y="299.52" textLength="256.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">- 그 테스트가 통과하도록 고친다.</text>
+<text x="536.0" y="315.52" textLength="336.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">끝나는 조건: 결제 관련 테스트가 전부 통과.</text>
+<rect x="528.0" y="337.0" width="112.0" height="14.0" fill="#e0694a"/>
+<text x="536.0" y="347.52" textLength="96.0" lengthAdjust="spacingAndGlyphs" fill="#0c0c0c" font-weight="700">Apply Polish</text>
+<text x="664.0" y="347.52" textLength="96.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Retry Polish</text>
+<text x="792.0" y="347.52" textLength="104.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Keep Original</text>
+<text x="536.0" y="603.52" textLength="88.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">History 2 ▴</text>
+<text x="640.0" y="603.52" textLength="360.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">14:02:21 Retried · Opus 5.5 · 107 → 150 chars</text>
+<text x="536.0" y="587.52" textLength="48.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Keys ▴</text>
+<line x1="0.0" y1="616.00" x2="1072.0" y2="616.00" stroke="#5a5a5a" stroke-width="1" opacity="1.0"/>
+<text x="0.0" y="635.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2" font-weight="700">❯</text>
+<rect x="16.00" y="625.00" width="7.00" height="14.0" fill="#f2f2f2"/>
+</g>
+</g>
+</svg>

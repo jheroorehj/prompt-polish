@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 568.0 656.0" width="568" height="656" font-family="'Cascadia Mono','JetBrains Mono','SF Mono',Menlo,Consolas,'D2Coding','Noto Sans Mono CJK KR','Malgun Gothic',monospace" font-size="13.4" font-weight="600">
+<style>
+text{white-space:pre}
+@keyframes ck2{0%,12.500%{opacity:1}12.501%,100%{opacity:0}}
+@keyframes cy3{0%,10.000%{opacity:1}10.001%,100%{opacity:0}}
+@keyframes cy4{0%,10.000%{opacity:1}10.001%,100%{opacity:0}}
+@keyframes run6{from{transform:translateX(-48.00px)}to{transform:translateX(480.00px)}}
+</style>
+<rect width="100%" height="100%" rx="8" fill="#0c0c0c"/>
+<g transform="translate(12.0,24.0)">
+<text x="16.0" y="27.52" textLength="208.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700">Reference : Opus 5.5 Guide</text>
+<text x="440.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy3 0.500s linear 0.000s infinite">⠋</text>
+<text x="440.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy3 0.500s linear 0.050s infinite">⠙</text>
+<text x="440.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy3 0.500s linear 0.100s infinite">⠹</text>
+<text x="440.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy3 0.500s linear 0.150s infinite">⠸</text>
+<text x="440.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy3 0.500s linear 0.200s infinite">⠼</text>
+<text x="440.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy3 0.500s linear 0.250s infinite">⠴</text>
+<text x="440.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy3 0.500s linear 0.300s infinite">⠦</text>
+<text x="440.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy3 0.500s linear 0.350s infinite">⠧</text>
+<text x="440.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy3 0.500s linear 0.400s infinite">⠇</text>
+<text x="440.0" y="27.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy3 0.500s linear 0.450s infinite">⠏</text>
+<text x="456.0" y="27.52" textLength="72.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700">Polishing</text>
+<line x1="16.0" y1="40.00" x2="528.0" y2="40.00" stroke="#3c3c3c" stroke-width="1.2" opacity="1.0"/>
+<rect x="20.00" y="56.00" width="504.00" height="48.00" rx="5" fill="none" stroke="#3c3c3c" stroke-width="1.2" opacity="1.0"/>
+<text x="32.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy4 0.500s linear 0.000s infinite">⠋</text>
+<text x="32.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy4 0.500s linear 0.050s infinite">⠙</text>
+<text x="32.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy4 0.500s linear 0.100s infinite">⠹</text>
+<text x="32.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy4 0.500s linear 0.150s infinite">⠸</text>
+<text x="32.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy4 0.500s linear 0.200s infinite">⠼</text>
+<text x="32.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy4 0.500s linear 0.250s infinite">⠴</text>
+<text x="32.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy4 0.500s linear 0.300s infinite">⠦</text>
+<text x="32.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy4 0.500s linear 0.350s infinite">⠧</text>
+<text x="32.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy4 0.500s linear 0.400s infinite">⠇</text>
+<text x="32.0" y="75.52" textLength="8.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:cy4 0.500s linear 0.450s infinite">⠏</text>
+<text x="48.0" y="75.52" textLength="32.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:ck2 4.000s linear 0.000s infinite">0:00</text>
+<text x="48.0" y="75.52" textLength="32.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:ck2 4.000s linear 0.500s infinite">0:01</text>
+<text x="48.0" y="75.52" textLength="32.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:ck2 4.000s linear 1.000s infinite">0:02</text>
+<text x="48.0" y="75.52" textLength="32.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:ck2 4.000s linear 1.500s infinite">0:03</text>
+<text x="48.0" y="75.52" textLength="32.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:ck2 4.000s linear 2.000s infinite">0:04</text>
+<text x="48.0" y="75.52" textLength="32.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:ck2 4.000s linear 2.500s infinite">0:05</text>
+<text x="48.0" y="75.52" textLength="32.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:ck2 4.000s linear 3.000s infinite">0:06</text>
+<text x="48.0" y="75.52" textLength="32.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700" style="opacity:0;animation:ck2 4.000s linear 3.500s infinite">0:07</text>
+<text x="88.0" y="75.52" textLength="128.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700">Polishing prompt</text>
+<text x="224.0" y="75.52" textLength="264.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">claude-sonnet-5-5 · effort medium</text>
+<line x1="36.0" y1="88.00" x2="512.0" y2="88.00" stroke="#3c3c3c" stroke-width="2" stroke-dasharray="0.1 7.9" stroke-linecap="round" opacity="1.0"/>
+<clipPath id="clip5"><rect x="32.0" y="80.0" width="480.00" height="16.0"/></clipPath><g clip-path="url(#clip5)"><g style="animation:run6 1.485s linear infinite"><rect x="32.0" y="82.0" width="48.00" height="12.0" fill="#0c0c0c"/><line x1="32.0" y1="88.00" x2="80.00" y2="88.00" stroke="#e0694a" stroke-width="2.6"/></g></g>
+<text x="488.0" y="123.52" textLength="32.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Stop</text>
+<rect x="4.00" y="8.00" width="536.00" height="128.00" rx="5" fill="none" stroke="#e0694a" stroke-width="1.2" opacity="1.0"/>
+<text x="16.0" y="603.52" textLength="88.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">History 0 ▴</text>
+<text x="16.0" y="587.52" textLength="48.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Keys ▴</text>
+</g>
+</svg>
