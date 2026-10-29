@@ -1,0 +1,17 @@
+{
+  "name": "prompt-polish",
+  "metadata": {
+    "description": "Prompt Polish: a Claude Code mod that polishes your prompt for the model before you send it."
+  },
+  "owner": {
+    "name": "jheroorehj",
+    "url": "https://github.com/jheroorehj"
+  },
+  "plugins": [
+    {
+      "name": "prompt-polish",
+      "source": "./",
+      "description": "Polishes your prompt for the model before you send it, and shows it next to the original."
+    }
+  ]
+}

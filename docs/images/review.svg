@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 568.0 656.0" width="568" height="656" font-family="'Cascadia Mono','JetBrains Mono','SF Mono',Menlo,Consolas,'D2Coding','Noto Sans Mono CJK KR','Malgun Gothic',monospace" font-size="13.4" font-weight="600">
+<style>
+text{white-space:pre}
+@keyframes cy7{0%,25.000%{opacity:1}25.001%,100%{opacity:0}}
+</style>
+<rect width="100%" height="100%" rx="8" fill="#0c0c0c"/>
+<g transform="translate(12.0,24.0)">
+<text x="16.0" y="27.52" textLength="208.0" lengthAdjust="spacingAndGlyphs" fill="#e0694a" font-weight="700">Reference : Opus 5.5 Guide</text>
+<text x="448.0" y="27.52" textLength="24.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700" style="opacity:0;animation:cy7 0.400s linear 0.000s infinite">∙∙∙</text>
+<text x="448.0" y="27.52" textLength="24.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700" style="opacity:0;animation:cy7 0.400s linear 0.100s infinite">●∙∙</text>
+<text x="448.0" y="27.52" textLength="24.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700" style="opacity:0;animation:cy7 0.400s linear 0.200s infinite">∙●∙</text>
+<text x="448.0" y="27.52" textLength="24.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700" style="opacity:0;animation:cy7 0.400s linear 0.300s infinite">∙∙●</text>
+<text x="480.0" y="27.52" textLength="48.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700">Review</text>
+<line x1="16.0" y1="40.00" x2="528.0" y2="40.00" stroke="#3c3c3c" stroke-width="1.2" opacity="1.0"/>
+<rect x="16.0" y="49.0" width="72.0" height="14.0" fill="#e0694a"/>
+<text x="24.0" y="59.52" textLength="56.0" lengthAdjust="spacingAndGlyphs" fill="#0c0c0c" font-weight="700">AUTO ON</text>
+<text x="112.0" y="59.52" textLength="296.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Session Model : Opus 5.5 (Detected) ▾</text>
+<text x="24.0" y="75.52" textLength="344.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Polish Model : claude-sonnet-5-5 (medium) ▾</text>
+<rect x="4.00" y="8.00" width="536.00" height="80.00" rx="5" fill="none" stroke="#e0694a" stroke-width="1.2" opacity="1.0"/>
+<rect x="4.00" y="104.00" width="536.00" height="80.00" rx="5" fill="none" stroke="#8a8a8a" stroke-width="1.2" opacity="0.55"/>
+<text x="16.0" y="123.52" textLength="120.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a" font-weight="700">Original Prompt</text>
+<text x="456.0" y="123.52" textLength="72.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">107 chars</text>
+<text x="16.0" y="139.52" textLength="448.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">결제 페이지에서 쿠폰 넣고 결제하면 가끔 할인 전 금액으로</text>
+<text x="16.0" y="155.52" textLength="504.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">결제되는 것 같아. 저번에 본 그 파일 문제인 것 같은데 좀 봐줄 수</text>
+<text x="16.0" y="171.52" textLength="368.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">있어? 테스트도 있으면 좋고. think step by step</text>
+<rect x="4.00" y="200.00" width="536.00" height="96.00" rx="5" fill="none" stroke="#b1b9f9" stroke-width="1.2" opacity="1.0"/>
+<text x="16.0" y="219.52" textLength="120.0" lengthAdjust="spacingAndGlyphs" fill="#b1b9f9" font-weight="700">Polished Prompt</text>
+<text x="456.0" y="219.52" textLength="72.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">128 chars</text>
+<text x="16.0" y="235.52" textLength="464.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">쿠폰을 넣고 결제하면 가끔 할인 전 금액으로 결제되는 버그를</text>
+<text x="16.0" y="251.52" textLength="328.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">checkout/applyCoupon.ts 에서 찾아 고쳐줘.</text>
+<text x="16.0" y="267.52" textLength="296.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">이 버그를 재현하는 테스트를 추가해줘.</text>
+<text x="16.0" y="283.52" textLength="504.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">완료 기준: 새 테스트와 기존 결제 테스트가 모두 통과하면 끝이야.</text>
+<rect x="8.0" y="305.0" width="112.0" height="14.0" fill="#e0694a"/>
+<text x="16.0" y="315.52" textLength="96.0" lengthAdjust="spacingAndGlyphs" fill="#0c0c0c" font-weight="700">Apply Polish</text>
+<text x="144.0" y="315.52" textLength="96.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Retry Polish</text>
+<text x="272.0" y="315.52" textLength="104.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Keep Original</text>
+<text x="16.0" y="603.52" textLength="88.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">History 1 ▴</text>
+<text x="120.0" y="603.52" textLength="368.0" lengthAdjust="spacingAndGlyphs" fill="#9a9a9a">14:02:08 Polished · Opus 5.5 · 107 → 128 chars</text>
+<text x="16.0" y="587.52" textLength="48.0" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Keys ▴</text>
+</g>
+</svg>

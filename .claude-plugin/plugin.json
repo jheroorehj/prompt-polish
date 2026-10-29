@@ -1,0 +1,34 @@
+{
+  "name": "prompt-polish",
+  "version": "0.12.0",
+  "description": "Polishes your prompt for the model before you send it, and shows it next to the original",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "polishModel": {
+      "type": "string",
+      "title": "Polish Model",
+      "description": "The model that polishes your prompt. A short name like sonnet, or a full model name.",
+      "default": "sonnet"
+    },
+    "effort": {
+      "type": "string",
+      "title": "Effort",
+      "description": "How hard the model thinks while polishing. Higher is more careful but slower.",
+      "options": ["low", "medium", "high"],
+      "default": "low"
+    },
+    "placement": {
+      "type": "string",
+      "title": "Placement",
+      "description": "Where the Claude desktop app shows Prompt Polish: a band above the prompt box (band), or a pane beside the conversation (pane). The terminal and other apps always use the pane.",
+      "options": ["band", "pane"],
+      "default": "band"
+    },
+    "openOnStart": {
+      "type": "boolean",
+      "title": "Open on start",
+      "description": "Opens the Prompt Polish pane when a session starts.",
+      "default": true
+    }
+  }
+}
